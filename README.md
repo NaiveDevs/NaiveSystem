@@ -14,3 +14,11 @@ Back end server using Apache + PHP + MySQL
 
 如: UI设计中，可自己创建一个 登录界面设计Issue 然后完成后close掉这个Issue.
 
+
+
+##### HTML Preview Links:
+
+[Preview](http://htmlpreview.github.io/?https://github.com/NaiveDevs/NaiveSystem/blob/master/index.html) （使用htmlpreview.github.io生成，只能预览静态页面）
+
+
+
